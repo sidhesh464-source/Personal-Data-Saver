@@ -2,7 +2,7 @@ let currentUser = null;
 let currentMonth = new Date().getMonth();
 let currentYear = new Date().getFullYear();
 
-const STORAGE_KEY = 'personal_db_v3';
+const STORAGE_KEY = 'personal_db_v4';
 const CACHE_NAME = 'personal-details-v19';
 
 const views = {
